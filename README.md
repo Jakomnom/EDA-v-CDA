@@ -56,3 +56,17 @@ Key Insights:
 * The chronological sort reveals that the original data wasn't time-ordered
 * Breaking out date components will facilitate various types of temporal analysis
 
+![image](https://github.com/user-attachments/assets/1058df5a-f580-449a-ae7c-27c530658c09)
+
+Analyze the monthly profits gained from sales of different product categories. Use a linechart to visualize results.
+
+![image](https://github.com/user-attachments/assets/a3a80caa-a2ca-40df-b05a-c5f2c4962dd2)
+
+Here are the key insights from the sales and profit data analysis:
+
+* Technology is the star performer with consistent upward growth (20k to 50k)
+* Furniture is underperforming with flat or declining profits (stagnant around 5-10k)
+* Significant monthly volatility across all categories
+* Technology should likely be a focus area for future investment given its growth trajectory
+* Monthly volatility suggests need for better inventory or pricing management
+* Good diversification across categories, though with varying success
