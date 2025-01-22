@@ -44,7 +44,15 @@ Here are some key insights we can gather from the above:
 * Order quantities are relatively small (2-5 units), suggesting this might be a B2C or small B2B business
 * The sales values vary significantly, from around $22 to $731, showing a wide price range in the product catalog
 
+Time Analysis is always a good idea whenever we want to see trends, so let's do that next.
 
+![image](https://github.com/user-attachments/assets/bc7e9edb-c78f-464e-987e-27e0b214314a)
 
+Key Insights:
 
+* The dataset covers a substantial period (4 years), making it suitable for trend analysis
+* Early 2014 data shows a focus on office supplies with varying profitability
+* Some customers (like Phillina Ober) made multiple purchases on the same day
+* The chronological sort reveals that the original data wasn't time-ordered
+* Breaking out date components will facilitate various types of temporal analysis
 
