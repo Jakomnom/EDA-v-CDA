@@ -100,3 +100,9 @@ Areas for Investigation:
 
 ![image](https://github.com/user-attachments/assets/2a56d4f7-c475-4fcb-90ba-e6eefcccbcea)
 
+### Key Insights:
+
+ There's a significant gap between top and bottom customers
+ Heavy reliance on top customers
+ Possible opportunity to grow mid-tier customers
+ Need for VIP retention strategy for top performers
