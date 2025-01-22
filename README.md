@@ -100,9 +100,23 @@ Areas for Investigation:
 
 ![image](https://github.com/user-attachments/assets/2a56d4f7-c475-4fcb-90ba-e6eefcccbcea)
 
-### Key Insights:
+#### Key Insights:
 
  * There's a significant gap between top and bottom customers
  * Heavy reliance on top customers
  * Possible opportunity to grow mid-tier customers
  * Need for VIP retention strategy for top performers
+
+### DATA EXPLORATION: LOCATION
+Let's now turn to exploring location. Let us first create a choropleth map to better identify high and low-performing regions
+as well as to show geographic patterns that might be missed in tables.
+
+![image](https://github.com/user-attachments/assets/4d6bdd85-c830-435e-b2b6-b02748b001fd)
+
+Here are the key insights from both choropleth maps:
+
+* California and the Northeast region dominate profits across both overall sales and technology products specifically, suggesting strong market presence in these coastal regions
+* There's a clear coastal vs inland divide, with coastal states generally performing better, particularly in technology sales
+* The central states show moderate overall performance but notably weaker technology sales, indicating potential growth opportunities in the technology category
+* Southern states generally show lower profits in both maps, suggesting a need for targeted market development or investigation into regional challenges
+* The technology category appears to be more concentrated in specific markets (California, Northeast) compared to overall sales which are more evenly distributed, indicating possible market penetration opportunities
