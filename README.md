@@ -72,7 +72,7 @@ Now let's move on to the Customer Aspect of the data.
 
 ### Now let's move to Data Exploration: Customer Aspect
 
-Let's see how many unique costumers we have
+#### Let's see how many unique costumers we have
 
 ![image](https://github.com/user-attachments/assets/286aa6a6-81f6-4c96-a692-6071563ed94c)
 
@@ -96,4 +96,7 @@ Areas for Investigation:
   * What changes were implemented in 2015 that led to the turnaround?
   * Is the current growth rate sustainable?
 
+#### Top 10 customers who brought the highest profit
+
+![image](https://github.com/user-attachments/assets/2a56d4f7-c475-4fcb-90ba-e6eefcccbcea)
 
