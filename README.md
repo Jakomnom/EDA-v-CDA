@@ -120,3 +120,20 @@ Here are the key insights from both choropleth maps:
 * The central states show moderate overall performance but notably weaker technology sales, indicating potential growth opportunities in the technology category
 * Southern states generally show lower profits in both maps, suggesting a need for targeted market development or investigation into regional challenges
 * The technology category appears to be more concentrated in specific markets (California, Northeast) compared to overall sales which are more evenly distributed, indicating possible market penetration opportunities
+
+### Data Exploration - Hierarchical Information about the products
+
+After seeing the geographic distribution, diving into the product hierarchy helps us understand what's actually driving those regional profits.
+Here's why this sequence makes sense:
+
+* The map showed us WHERE profits are concentrated (California, Northeast)
+* The product hierarchy can show us WHAT is driving those profits by breaking down the categories and sub-categories.
+
+![image](https://github.com/user-attachments/assets/6af4ef33-5994-45b1-aa0e-ba03dc1d0049)
+
+Key Insights:
+
+* Chairs ($26,590) and Furnishings ($13,059) are the most profitable sub-categories in Furniture, suggesting strong demand for workplace/home office furniture
+* In Office Supplies, Binders ($30,221) and Paper ($34,053) lead profits, indicating core office essentials remain strong revenue drivers
+* Technology shows consistently high profits across sub-categories, with Copiers ($55,617) and Phones ($44,515) being standout performers
+* This helps explain why certain regions (like tech-heavy California) show higher profits - they likely have higher concentrations of technology product sales which are consistently profitable
