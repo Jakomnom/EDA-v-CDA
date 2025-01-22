@@ -29,27 +29,20 @@ Let's start with the usual loading of the datasets. 
 
 Once loaded up, let's come up with some questions on how to start our exploration:
 
-Different column data types
+- Different column data types
+- How are the columns related
+- What are the different information in our data
+- Make a list of the information and start from the first row
 
-How are the columns related
-
-What are the different information in our data
-
-Make a list of the information and start from the first row
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/f2714d96-d319-4fe1-b737-253eb87186f4)
 
 Here are some key insights we can gather from the above:
 
-There's a mix of profitable and unprofitable sales (notice the negative profit of -383.0310 for the Bretford table)
-Some customers appear multiple times (e.g., Claire Gute, Sean O'Donnell) suggesting repeat business
-The data spans multiple states and product categories, indicating a nationwide business with diverse product offerings
-Order quantities are relatively small (2-5 units), suggesting this might be a B2C or small B2B business
-The sales values vary significantly, from around $22 to $731, showing a wide price range in the product catalog
+* There's a mix of profitable and unprofitable sales (notice the negative profit of -383.0310 for the Bretford table)
+* Some customers appear multiple times (e.g., Claire Gute, Sean O'Donnell) suggesting repeat business
+* The data spans multiple states and product categories, indicating a nationwide business with diverse product offerings
+* Order quantities are relatively small (2-5 units), suggesting this might be a B2C or small B2B business
+* The sales values vary significantly, from around $22 to $731, showing a wide price range in the product catalog
 
 
 
