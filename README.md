@@ -25,8 +25,6 @@ Let's start with the usual loading of the datasets. 
 
 ![image](https://github.com/user-attachments/assets/c3b946b3-33e5-4485-8f76-6bc2103bc7ca)
 
-
-
 Once loaded up, let's come up with some questions on how to start our exploration:
 
 - Different column data types
@@ -64,9 +62,38 @@ Analyze the monthly profits gained from sales of different product categories. U
 
 Here are the key insights from the sales and profit data analysis:
 
+Now let's move on to the Customer Aspect of the data.
 * Technology is the star performer with consistent upward growth (20k to 50k)
 * Furniture is underperforming with flat or declining profits (stagnant around 5-10k)
 * Significant monthly volatility across all categories
 * Technology should likely be a focus area for future investment given its growth trajectory
 * Monthly volatility suggests need for better inventory or pricing management
 * Good diversification across categories, though with varying success
+
+### Now let's move to Data Exploration: Customer Aspect
+
+Let's see how many unique costumers we have
+
+![image](https://github.com/user-attachments/assets/286aa6a6-81f6-4c96-a692-6071563ed94c)
+
+Looking at the customer data and visualization, here are the key insights:
+
+Overall Growth in Customer Base:
+  * Started with 595 customers in 2014
+  * Ended with 693 customers in 2017
+  * Total net growth of 98 customers (+16.5%) over 4 years
+
+Business Implications:
+  2015 was a turning point, possibly indicating:
+
+    * Implementation of new customer acquisition strategies
+    * Improved retention programs
+    * Expansion into new markets or product lines
+
+Areas for Investigation:
+
+  * What caused the initial decline in 2014-2015?
+  * What changes were implemented in 2015 that led to the turnaround?
+  * Is the current growth rate sustainable?
+
+
